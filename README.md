@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width" />
-   <title>Parking Master LVL. 1</title>
+  <link rel="stylesheet" type="text/css" href="https://crunchycarrots.github.io/style.css">
 </head>
 <body>
    <h3 id="header-style">Parking Master</h3>
